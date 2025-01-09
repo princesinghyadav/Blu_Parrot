@@ -1,5 +1,6 @@
-import sea2 from '../assets/images/image.png'
 
+import sea2 from '../assets/images/sea.png'
+// import sea2 from '../assets/image.png'
     const Content=()=>{
    
         

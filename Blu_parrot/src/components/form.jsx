@@ -1,6 +1,6 @@
  
 import { useState } from 'react';
-import sea from '../assets/images/image.png'
+import sea from '../assets/images/sea.png'
  
 
 export default function AuthPage() {

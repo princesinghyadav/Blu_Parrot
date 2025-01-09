@@ -1,6 +1,6 @@
  
 import { useState } from "react"
-import my from '../assets/images/image-1.png'
+import my from '../assets/images/sea3.png'
 import Nav from "./navbar"
 import { useNavigate } from "react-router";
 
